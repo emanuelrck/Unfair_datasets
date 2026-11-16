@@ -1,0 +1,9 @@
+# Versions used in the experiments (Python 3.10)
+numpy==1.24.2
+pandas==1.5.3
+scipy==1.13.0
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
+matplotlib==3.7.1
+seaborn==0.13.2
+liac-arff==2.5.0

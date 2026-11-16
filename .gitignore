@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# experiment output directories created by the scripts
+*_size*/
